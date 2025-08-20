@@ -40,6 +40,7 @@ streamlit run stapp.py
 ```
 用户：帮我发送一封邮件，通知2770468515@qq.com，主题是会议通知，内容是告知他明天下午两点在学院开会，具体信息看微信通知。
 ```
+<img width="1680" height="1050" alt="image" src="https://github.com/user-attachments/assets/e7e2614f-ab3f-400e-b97f-1f476652d55e" />
 
 
 #### 知识搜索
